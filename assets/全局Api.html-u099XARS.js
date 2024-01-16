@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-422a8f40","path":"/nativeCode/%E5%85%A8%E5%B1%80Api.html","title":"前言","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"nativeCode/全局Api.md","excerpt":""}');export{e as data};

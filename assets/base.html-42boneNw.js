@@ -1,0 +1,1 @@
+import{_ as s,o as a,c,a as e,b as t}from"./app-jFZM-UYu.js";const o={},r=e("h1",{id:"css基础",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#css基础","aria-hidden":"true"},"#"),t(" css基础")],-1),n=[r];function _(d,i){return a(),c("div",null,n)}const l=s(o,[["render",_],["__file","base.html.vue"]]);export{l as default};
